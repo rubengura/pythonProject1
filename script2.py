@@ -3,3 +3,7 @@ def mi_funcion():
 
 def func1():
     pass
+
+
+def func2():
+    pass
